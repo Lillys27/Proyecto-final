@@ -88,6 +88,8 @@ flex-direction: ;
 }
 body{
 	background-image:url(../img/fondo1.jpg);
+	overflow-x: hidden;
+	background-size: cover;
 }
 nav ul li a {
 	font-style:initial;
